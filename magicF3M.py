@@ -3,7 +3,7 @@ import openai
 import tkinter as tk
 from  pynput.keyboard  import  Key ,  Listener
 
-openai.api_key = str(input())
+openai.api_key = 'TU CODIGO API'
 
 
 def send_query():
