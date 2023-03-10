@@ -1,3 +1,6 @@
+#autor main31245 fire32men
+#github profile https://github.com/main31245
+#enjoy
 
 import openai
 import tkinter as tk
